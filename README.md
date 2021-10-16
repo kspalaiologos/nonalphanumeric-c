@@ -4,4 +4,4 @@
 
 A compiler targetting a non-alphanumeric subset of C.
 
-## [Read about it on my blog](http://localhost:1313/posts/nonalphanumeric-c/)
+## [Read about it on my blog](https://kamila.akagi.moe/posts/nonalphanumeric-c/)
